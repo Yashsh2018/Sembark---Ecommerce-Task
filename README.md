@@ -1,5 +1,4 @@
 <!-- # Sembark - E-Commerce Website -->
-
 This is a simple e-commerce website built using React, TypeScript, and Bootstrap. I made this for my project assignment. It connects to a dummy API to fetch products and lets users browse them, filter by categories, and add items to a shopping cart.
 
 <!-- Features -->
