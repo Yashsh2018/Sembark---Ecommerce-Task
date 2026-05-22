@@ -1,0 +1,50 @@
+body {
+  background: #f4f4f4;
+}
+
+
+/* images */
+img {
+  max-width: 100%;
+}
+/* images */
+
+
+
+/* product card */
+.product-card {
+  transition: 0.3s;
+}
+.product-card:hover {
+  transform: translateY(-5px);
+}
+/* product card */
+
+
+
+/* pagination */
+.page-item.active .page-link {
+  background-color: #222;
+  color: #fff;
+  border-color: #222;
+}
+.page-item .page-link {
+  color: #222;
+}
+.page-item .page-link:hover {
+  color: #222;
+}
+/* pagination */
+
+
+
+
+/* scroll bar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #222;
+  border-radius: 20px;
+}
+/* scroll bar */
